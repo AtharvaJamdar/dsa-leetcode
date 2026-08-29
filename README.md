@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -45,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -82,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
