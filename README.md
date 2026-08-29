@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 ## Quicksort
