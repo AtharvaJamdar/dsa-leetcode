@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
