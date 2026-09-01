@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0344-reverse-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0075-sort-colors) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
