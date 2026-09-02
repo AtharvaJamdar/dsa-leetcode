@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0344-reverse-string) |
 ## Quicksort
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
