@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0454-4sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
