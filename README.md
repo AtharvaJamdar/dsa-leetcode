@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0242-valid-anagram) |
@@ -231,5 +232,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0143-reorder-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
