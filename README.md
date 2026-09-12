@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Manacher
 |  |
@@ -234,8 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
