@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
