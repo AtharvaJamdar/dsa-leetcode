@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
