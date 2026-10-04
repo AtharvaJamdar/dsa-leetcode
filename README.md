@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
