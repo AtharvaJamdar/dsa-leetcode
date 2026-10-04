@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
