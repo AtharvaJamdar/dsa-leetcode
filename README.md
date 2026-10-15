@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0344-reverse-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Prefix Sum
@@ -373,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
