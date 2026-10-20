@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0268-missing-number) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
