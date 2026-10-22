@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0242-valid-anagram) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
