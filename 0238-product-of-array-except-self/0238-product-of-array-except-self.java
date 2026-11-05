@@ -8,10 +8,12 @@ class Solution {
         }
 
         int result = 1;
-        for(int i=nums.length-1;i >= 0;i--){
+
+        for(int i= nums.length-1;i>=0;i--){
             ans[i] = ans[i] * result;
-            result = result * nums[i]; 
+            result = result * nums[i];
         }
+
         return ans;
     }
 }
