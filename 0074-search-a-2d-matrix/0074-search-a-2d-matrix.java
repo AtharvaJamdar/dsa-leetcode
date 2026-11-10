@@ -7,24 +7,23 @@ class Solution {
         int left = 0;
         int right = m * n - 1;
 
-        while (left <= right) {
+        while(left <= right){
 
-            int mid = left + (right - left) / 2;
+            int mid = left + (right-left)/2;
 
-            int row = mid / n;
-            int col = mid % n;
+            int row = mid/n;
+            int col = mid%n;
 
-            if (matrix[row][col] == target) {
+            if(matrix[row][col] == target){
                 return true;
             }
-            else if (matrix[row][col] < target) {
+            else if(matrix[row][col] < target){
                 left = mid + 1;
             }
-            else {
+            else{
                 right = mid - 1;
             }
         }
-
         return false;
     }
 }
