@@ -22,10 +22,8 @@ class Solution {
             fast = fast.next.next;
         }
 
-        ListNode second = slow.next;
-        slow.next = null;
-
-        ListNode curr = second;
+        ListNode curr = slow.next;
+        slow.next = null; // Important: disconnect halves
         ListNode prev = null;
 
         while(curr != null){
