@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0344-reverse-string) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AtharvaJamdar/dsa-leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
